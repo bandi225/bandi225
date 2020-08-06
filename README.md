@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-<!--
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/bandi225/my-stack)
+
+
+🔭 I’m currently working on Korea
+
+
+
+<!--### Bye 👋
 **bandi225/bandi225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
